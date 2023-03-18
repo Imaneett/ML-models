@@ -1,4 +1,4 @@
-# ML-models
+# ML-models code Examples
 This repository includes demonstrations of machine learning using OpenCV, YOLOv3, Python, and NumPy, as well as a cascade classifier.<br />
 YOLOv3 is a high-performance object detection algorithm that is both quick and precise.<br />
 OpenCV is a widely-used computer vision library that offers a variety of resources for processing images and videos. <br />
@@ -7,11 +7,11 @@ A cascade classifier is a type of object detection algorithm that uses a machine
 
 ## Installation
   
-To run this project, you need to have the following libraries installed:
-  1.OpenCV
-  2.NumPy
-  3.imutils
-You can install these libraries using pip, by running the following commands:
+To run this project, you need to have the following libraries installed:<br />
+  1.OpenCV <br />
+  2.NumPy <br />
+  3.imutils <br />
+You can install these libraries using pip, by running the following commands: <br />
 ```python
 pip install opencv-python
 pip install numpy

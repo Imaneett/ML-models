@@ -17,7 +17,7 @@ pip install opencv-python
 pip install numpy
 pip install imutils
 ```
-You also need to download the [YOLOv3](https://pjreddie.com/darknet/yolo/) weights and configuration files from the official website: 
+You also need to download the [YOLOv3](https://pjreddie.com/darknet/yolo/) weights and configuration files from the official website
 
 
 
